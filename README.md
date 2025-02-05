@@ -12,12 +12,12 @@ KEY FEATURES:
 ```
 ```
 TECH STACK:
-Programming Language	Python
-Hardware	Raspberry      Pi 5, Camera Sensor
-Computer Vision	     OpenCV, NumPy
-Cloud Database (TBD)	Azure, PostgreSQL
-Backend API	          FastAPI (Running on VS Code)
-Visualization (TBD)	     Matplotlib, Dash, Power BI
+Programming Language     Python
+Hardware	Raspberry     Pi 5, Camera Sensor
+Computer Vision     OpenCV, NumPy
+Cloud Database (TBD)     Azure, PostgreSQL
+Backend API     FastAPI (Running on VS Code)
+Visualization (TBD)     Matplotlib, Dash, Power BI
 ```
 ```
 SYSTEM ARCHITECTURE:
