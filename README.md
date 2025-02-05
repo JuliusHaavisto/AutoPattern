@@ -10,15 +10,17 @@ KEY FEATURES:
      - Visualize data
      - Modularity in structure for scalability 
 ```
-```
-TECH STACK:
-Programming Language     Python
-Hardware	Raspberry     Pi 5, Camera Sensor
-Computer Vision     OpenCV, NumPy
-Cloud Database (TBD)     Azure, PostgreSQL
-Backend API     FastAPI (Running on VS Code)
-Visualization (TBD)     Matplotlib, Dash, Power BI
-```
+## 🔹 TECH STACK:
+| Component           | Technology Used                        |
+|---------------------|--------------------------------------|
+| **Programming Language** | Python                           |
+| **Hardware**        | Raspberry Pi 5, Camera Sensor       |
+| **Computer Vision** | OpenCV, NumPy                      |
+| **Cloud Database (TBD)** | Azure, PostgreSQL               |
+| **Backend API**     | FastAPI (Running on VS Code)       |
+| **Visualization (TBD)** | Matplotlib, Dash, Power BI      |
+
+
 ```
 SYSTEM ARCHITECTURE:
      
