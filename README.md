@@ -18,7 +18,7 @@ Cloud Database (TBD)	Azure, PostgreSQL
 Backend API	          FastAPI (Running on VS Code)
 Visualization (TBD)	     Matplotlib, Dash, Power BI
  
-
+```
 SYSTEM ARCHITECTURE:
      
   PC (VSCode + API) <---------------------------> CLOUD INFRA (DATABASE)
@@ -26,7 +26,7 @@ SYSTEM ARCHITECTURE:
              \                                     /
               \                                   / 
             Local network <------------------> Rasbi 5 <--- Camera sensor 
-
+```
 
 SYSTEM WORKFLOW:
 1. The Raspberry Pi captures images using a connected camera.
