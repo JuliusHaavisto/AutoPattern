@@ -37,3 +37,6 @@ SYSTEM WORKFLOW:
 3. Object count data is sent to the cloud database.
 4. The API (running in VS Code) fetches data from the cloud.
 5. Visualization tools display the data.
+__________________________________________________________________________
+Notes / Lessons learned on the way
+- Impracticality of changing IP: Project is run on "home environment" so networking used doesnt correspond to a real-life setting for this kind of application. Having to add new client IPv4 now and then in Azure Networking vs. having static IP / Virtual Network
